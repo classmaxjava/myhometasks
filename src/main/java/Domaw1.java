@@ -2,9 +2,9 @@ import java.io.BufferedReader;
 import java.io.InputStreamReader;
 
 /**
- * Created by java on 03.04.16.
+ * Created by java
  */
-public class App {
+public class Domaw1 {
     public static void main(String[] args) throws Exception {
 
         double Pi = 3.14;
@@ -48,10 +48,6 @@ public class App {
             default:    //если ни один из кейсов не совпал
                 System.out.println("Неправильный ввод!!!\n Прочтите снова что вообще требуется для расчета ....");
         }
-
-
-
-
     }
 
 }
